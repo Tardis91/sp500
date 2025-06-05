@@ -10,7 +10,7 @@ This site combines econometric theory with hands-on Python data analysis.
 
 ### 📈 S&P 500: Financial Econometrics Analysis
 
-![S&P 500 with Moving Averages](images/sp500_quant_price_plot.png)
+![S&P 500 with Moving Averages](images/sp500_plot.png)
 
 A practical time series investigation into the S&P 500 using:
 
